@@ -65,7 +65,7 @@ The `docker-compose.yml` file includes the following services:
 To stop and remove the containers, run:
 
 ```bash
-docker-compose -f mongodb-docker-compose.yml down
+docker compose -f mongodb-docker-compose.yml down
 ```
 
 ## License
